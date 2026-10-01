@@ -1,0 +1,9 @@
+# Module Big Data M2 - dependances des travaux pratiques
+# Python 3.10+ et Java 17 ou 21 requis.
+# En cas d'echec d'installation de pyspark : pip install "setuptools<81"
+
+pyspark>=3.5
+duckdb>=1.0
+streamlit>=1.49
+plotly>=5.20
+pandas>=2.0
